@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-15T15:11:14 IST" name="Default suite" finished-at="2022-06-15T15:11:29 IST" duration-ms="15043">
+    <groups>
+    </groups>
+    <test started-at="2022-06-15T15:11:14 IST" name="Default test" finished-at="2022-06-15T15:11:29 IST" duration-ms="15043">
+      <class name="SampleProject">
+        <test-method signature="application()[pri:0, instance:SampleProject@79924b]" started-at="2022-06-15T15:11:14 IST" name="application" finished-at="2022-06-15T15:11:29 IST" duration-ms="14896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- application -->
+      </class> <!-- SampleProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
